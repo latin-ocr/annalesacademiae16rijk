@@ -1,0 +1,50 @@
+RESPONSIO An QUAESTIONEM-ASTRONOMIGAM. 'ii¹
+
+ 
+
+Log. Cos. LZ = Log. Cos. 260 33¹ 54‘' Ξ 9‚9515452
+Log. Sin. LZM Ξ Log. Sin. 360 Ξ 997692137
+Log. Cos. LMZ Ξ Log. Cos. 58⁰ 16¹ 57'' Ξ 9‚7207639
+
+ergo LMZ Ξ 580 16' 57'‘
+30. Distantia quae est'inter Zenith et intersectionis punctum M Meridiani seu MZ
+
+1 z Cos. LZM Ξ Cot. LZ ε Cot. MZ
+
+ 
+
+Log. Cos. LZM Ξ Log. Cos. 36⁰ = 9‚9079576
+Log. Cot. LZ Ξ Log. Cot. 260 33‘ 54⁸ Ξ 0‚3010310
+Log. Cot. MZ Ξ Log. Cot. 31⁰ 43¹ 3⁰ = 0‚2089886
+
+ergo ΜΖ Ξ 310 43‘ 3''
+ΖΡ = 37⁰ 50¹ 34⁰
+
+ 
+
+MP Ξ ΡΖ-ΜΖ Ξ 60 7“31‘'
+
+’ hocce in casu signum -- est adhibendum, quoniam planum Horologii planum meridi&
+
+secat intra Polum et Zenith
+
+C. In Δ sphaerico rectangulo PSM determinatur
+ιο. PS elevatio styli:
+
+1 t Sin. PM Ξ Sin. PMS ε sin. PS.
+
+ 
+
+Log. Sin. PM Ξ Log. Sin. 60 7' 31⁰ Ξ 9,0281756
+
+Log. Sin. PMS Ξ Log. Sin. 580 16¹ 57⁰ Ξ 9‚9297512
+
+Log. Sin. PS Ξ Log. Sin. 50 12' 28⁰ Ξ 8‚9579268
+crgo PS Ξ 50 12‘ 28“
+
+20. Distantia inter meridianum et substylarem‚ seu inter substylarem SC et CM 11·
+neam horae XII, scu MS. ’
+
+1 ε Cos. PMS Ξ Tang. PM ε Tang. MS ι
+C Logss
+

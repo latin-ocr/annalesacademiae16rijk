@@ -1,0 +1,39 @@
+RESPONSIO An QUAESTIONEM ASTRONOMICAM. 31,
+
+⁷20. Angulus ZML75ub quo planum Horologii MLS secat Meridianum MZP.
+1 ε Cos. LZ = Sin. LZM t Cos. LMZ.
+
+3⁰. Distantia MZ, quae est inter Zenith et intersectionis punctum M.
+1 z Cos. LZM Ξ Cot. LZ z Cot. MZ.
+
+Hinc valor ipsius MP Ξ ΡΖ ‡ ΜΖ, pro ut planum Horologii secat Meri‘
+dianum extra vel intra Z et P.
+
+1110. Ope Δ Sphaerici rectanguli PSM determinantur.
+
+10. Arcus PS seu elevatio styli:
+1 ι Sin. PM ε Sin. PMS ε Sin. PS. —
+
+20. Arcus MS, sub quo substylaiis distat a Meridiano vel linea horae XHz
+1 z Cos. PMS = Tang. PM ξ Tang. MS.
+
+30⁶. Angulus horarius SPM‚ qui determinat tempus, quo Sol versatur in ipso·
+
+plano quod per stylum et substylarem transit:
+Sin. PM z 1 = Sin. MS ε Sin. MPS.
+a quo angulo deducuntur, vel si opus sit, adduntur continuo 15⁰, ut lineae
+horariae computentur, vel potius arcus S XI, S X et sic porto, sub quibus
+lineae horariae inter se invicem distant, id est, sub quo angulo lineae horariae
+singulae e centro, ope lineae chordarum sunt ducendae, et confectum est Ho-
+rologium solare.
+
+Ne vero lineae delineentur horariae, quae nunquam obumbran· possunt, attendendum·
+
+est ad formulam Cos. SPO t: Cot. ΡΟ Tang. ΡΞ, qu'us ope tempus, quo Sol pla· -
+
+num illuminare incipit atque desinit, facile determinatur.
+
+TANTUM.
+
+·Sol, quo altior est, eo minores facit umbras.
+

@@ -1,0 +1,50 @@
+6 sEERPIt BROUWER
+
+30. MZ distantia, quae est inter Zenith et intersectionis punctum M meridiani
+1 ε Cos. LZM Ξ Tang. MZ ε Tang. LZ Ξ Cot. LZ τ Cot. MZ (5)
+
+ 
+
+ 
+
+¹ 1 ι Cos. 600 Ξ Ξ Cot. 19⁰ 28' 16⁰ Cot. MZ - ἱ
+ergo MZ Ξ 350 15' 41⁰ Log. Cos. LZM = 9‚6989700
+
+ΖΡ Ξ 37⁰ 5.0‘ 34⁰ Log. Cot. LZ = 0‚4515476
+hinc PM = 730 6' 15⁹ Ι Log. Cot. MZ = 0,15o517'6.
+
+C. In Δ sphaerico rectangnlo PSM determinantur
+
+1⁰. PS elevatio styli ¹
+1 : Sin. PM Ξ Sin. PMS t Sin. PS (6)
+1 t Sin. 73⁰ 6' 15⁰ Ξ Sin. 350 15' 50“ : Sin. PS
+Log. Sin. PM = 999808369
+ergo PS = 330 32' Log. Sin. PMS Ξ 9‚7614340
+
+ 
+
+Log. Sin. PS Ξ 9,7429.709.
+20. MS distantia inter substylarem SC et lineam meridiei horariam CM
+
+1 : Cos. SMP Ξ Tang. PM : Tang. MS: (7)
+Log. Cos. SMP Ξ Log. Cos. 350 15' 50¹¹ Ξ 9‚9119571
+Log. Tang. PM Ξ Log. Tang. 730 6‘ 15‘' Ξ 0‚5174925
+
+ 
+
+Log. Tang. MS Ξ Log. Tang. 690 35¹ 40¹¹ Ξ 0,4294496
+
+Si ab distantia styli a meridie seu MS Ξ 690 35¹ 40'' vel 1100 24' 20⁹ Ξ Μ’ S au-
+feratur distantia perpendiculi a meridie ML remanet distantia styli a perpendiculari
+Ξ LS Ξ 690 35’ 40⁰—— 300 Ξ 390 35' 40''
+
+30. Λ SPM, angulus horarius, qni determinat tempus, quo Sol versatur in ipso plano,
+quod per stylum et substylarcm transit
+Sin.
+
+(si Id. ibid. No. ο.
+(6) Da Lambre, p. 96. 1 cns. Ne. 1.
+(7 ) Da humbre, p. 96. 1 cas. No. a»
+
+ 
+

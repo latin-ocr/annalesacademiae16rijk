@@ -1,0 +1,48 @@
+RESPONSIO AD QUAESTIONEM ASTRONOMICAM. 5
+
+una tantum figura sufficit, et triangulorum resolutio continuo occurrit eodem fere modo.
+Sed ut> haec omnia m'agis‘ elucescant, et ipsae formulae et earum applicatio pateant, in=
+primis vero ut quaestioni a Viris celeberrimis propositae ex voto respondeam, propo-
+sui mihi Horologia in planis Tetraedri‚ Hexaedri et Dodecaedri‚ construere pro loco,
+cujus latitudo borealis est 520 9' 26⁰ ubi igitur Polus distat a Zenith 370 50‘ 34'l ΞΡΖ.
+Accedamus nunc ad formulas, quibus Horologia Solaria construuntur supra plana
+
+TETRAenRx.
+
+Ι. A. 10. Τεῐταὲᾶτὶ basis ‘est triangulum aequilaterum, quilibet angulus = 600. Si igitur
+aliud planum meridiei directe opponatur, tunc unum ex duobus reliquis declinata me-
+ridie versus orientem sub angulo 1200 seu ab oriente ad boream sub angulo 1200 —
+900 Ξ 300 cujus complementum MZL Ξ 600.
+
+20. Tetrandri plana-sibi invicem apponuntur sub angulo 700 31¹ 44⁰ (2) et igitur
+horologii planum MLS inclinat cum linea verticali sub arcu ZL Ξ 190 28' 16¹¹.
+
+B. In triangulo sphaerico rectangulo ZLM determinatur.
+
+1⁰. LM seu distantia perpendiculi LC a meridiei linea MC
+1 ε Sin. ZL Ξ Tang. MZL : Tang. ML (3)
+1 :Sin. 199 28'16¹¹ Ξ Tang. 600 : Tang, ML
+Log. Sin. ZL = 9‚5228764
+Ergo ML Ξ 300, Log. Tang. MZL Ξ 0‚2385606
+
+ 
+
+Log. Tang. ML Ξ 9,7614370‚
+
+2⁰. A ZML angulus sub quo planum horologii MLS secat meridianum ΜΖΡ.
+
+ 
+
+1 :cos. LZ Ξ Sin. LZM t Cos. LMZ (4)
+1 ι Cos. 190 28¹16‘' Ξ Sin. 600 ε Cos. LMZ
+Log. Cos. LZ Ξ 9‚9744239
+ergo LMZ Ξ 350 15¹ 50 Log. Sin. LZM Ξ 0,93753οᾶ
+Log. Cos. LMZ Ξ 9,9119545,
+30,
+
+(2) Cf. el. v. Savium, Cum, pag. 49¹-
+(s) Delaman, Abrdgd a faunu-te, pag. 97· 5 cas. No. r.
+<4) ld. ibid. No. a.
+
+Aa
+

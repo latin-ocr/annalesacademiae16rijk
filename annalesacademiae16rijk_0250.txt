@@ -1,0 +1,46 @@
+Μ sEEnPLI BROUW'ER
+
+4⁰* Horologium a septentrione ad orientem declinans accipit radios solares
+10. a Solis ortu usque ad 8¹¹ 16' 32‘' temp. matutin.
+0¹0. ab 7¹² 58¹ 24⁰ temp. vespert,v ad·So·1is occasum usque.-
+
+Fjg, 7, HI. A. Denique restant adhuc quatuor Horolossia construenda, ex' quibus
+⁴ duo adJ'acentia Meridionali solario, declinant a meridie, unum versus occidentem, aite- ¹
+Ι rum versus orientem sub angulo 1800 -— 1080 = 720 z MZL.
+
+B. In Δ sphaerico rectangulo ZLM determinantur
+10. ML seu distantia inter Pel-pendicularis punctum L *et Met-idiani punctum M;
+
+1 z Sin. ZL Ξ Tan-g. MZL Tang. ML
+
+Log'ss Sin‘. ''ZL Ξ Log. Sin. 260 31¹ 54¹² Ξ 9‚6505t{42
+Π Log. Tang. LZM Ξ Log. Tang. 720 = 034882240
+
+ 
+
+Log.¹Tang. ML = Log. Tang. 530 59¹ 57'' ’Ξ 0‚1387282
+ergo ML = 530 59‘ 5ss .· ’-
+
+00. Angulus ZML, quem planum Horologii MLS facit cum Meridiano MZP;
+
+1 ε Cos. ZL = Sin. LZM ε Cos. LMZ.
+Log. Cos. ZL = Log. Cos. 260 33' 54st Ξ 959515452
+Log. Sin. LZM Ξ Log. Sin. 72⁰ Ξ 9‚9782063
+
+Los Cos. LMZ Ξ Log. Cos. 310 43‘ 3¹¹ = 9‚9297515
+ergo l-LMZ Ξ 310 43¹ 3¹¹
+
+ 
+
+30. MZ distantia, quae est inter Zenith Z et intersectionis punctum M Mei-idiani Α
+
+1 ι Cos. LZM Ξ Cot. LZ ε Cot. MZ
+
+Log. Cos. LZM Ξ Log. Cos. 72⁰ Ξ 9.,4899824
+Log. Cot. LZ Ξ Log. Cot. 260 33' 54“ = 0‚3010310
+
+————-—
+
+Log. Cot. MZ Ξ Log. Cot. 58⁰ 16‘ 57¹‘ Ξ 9,7910134
+ergo
+
